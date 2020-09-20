@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "lib",
+    "module": "commonjs",
+    "declaration": true,
+    "target": "es2019",
+    "esModuleInterop": true,
+    "sourceMap": true
+  },
+  "include": ["src", "src/index.ts"],
+  "exclude": [],
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.26"
+  }
+}
