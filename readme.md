@@ -1,6 +1,8 @@
 # Typeorm-sequence
 
+THIS LIBRARY IS NO LONGER MAINTAINED
 Typeorm-sequence is a library that enables you to use a db sequence in a column (it works only on postgres and oracle yet).
+
 
 # Install via NPM
 
